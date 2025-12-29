@@ -70,10 +70,12 @@ python Gate_trading_bot.py
 
 ```
 trading-bot-project/
-├── config.py          # API credentials configuration
-├── requirements.txt   # Python dependencies
-├── venv/             # Virtual environment (not tracked in git)
-└── README.md         # This file
+├── Gate_trading_bot.py  # Main trading bot application
+├── config.py            # API credentials configuration
+├── requirements.txt     # Python dependencies
+├── .gitignore          # Git ignore rules
+├── venv/               # Virtual environment (not tracked in git)
+└── README.md           # This file
 ```
 
 ## Security Notes
