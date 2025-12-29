@@ -1,0 +1,4 @@
+secret
+flask
+gate-api
+requests
