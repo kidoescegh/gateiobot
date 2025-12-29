@@ -87,4 +87,14 @@ trading-bot-project/
 
 ## License
 
-[Add your license here]
+This project is for educational purposes only.
+
+## Resources
+
+- Website: [fomad.net](https://fomad.net)
+- YouTube: [Profit with Python](https://www.youtube.com/@ProfitWithPython)
+- Contact: info@fomad.net
+
+## Disclaimer
+
+This trading bot is provided for educational purposes only. Trading cryptocurrencies involves substantial risk of loss. Always test thoroughly and use at your own risk.
